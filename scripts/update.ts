@@ -1,18 +1,20 @@
 #!/usr/bin/env tsx
-import { fileURLToPath } from 'node:url'
-import { dirname, join, resolve } from 'node:path'
+
+import type { ArticleTree, DocsMetadata, DocsTagsAlias, Tag } from './types/metadata'
 import { createHash } from 'node:crypto'
+import { dirname, join, resolve } from 'node:path'
 import process from 'node:process'
-import fs from 'fs-extra'
+import { fileURLToPath } from 'node:url'
 import fg from 'fast-glob'
-import Git from 'simple-git'
+import fs from 'fs-extra'
 import matter from 'gray-matter'
 import uniq from 'lodash/uniq'
+import Git from 'simple-git'
 import TagsAlias from '../.vitepress/docsTagsAlias.json'
-import type { ArticleTree, DocsMetadata, DocsTagsAlias, Tag } from './types/metadata'
+import { collapsed } from '../metadata/config'
 
 const dir = './'
-const target = '笔记/'
+const target = 'Notes/'
 const folderTop = true
 
 export const DIR_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..')
@@ -102,7 +104,7 @@ function addRouteItemRecursion(indexes: ArticleTree[], item: any, path: string[]
 
     if (!obj) {
       // 如果没有找到，就创建一个
-      obj = { index: onePath, text: onePath, collapsed: true, items: [] }
+      obj = { index: onePath, text: onePath, collapsed, items: [] }
       indexes.push(obj)
     }
     else if (!obj.items) {

@@ -25,7 +25,7 @@ export default defineConfig({
       },
     },
   },
-  lang: 'zh-CN',
+  lang: 'ja-JP',
   title: siteName,
   description: siteDescription,
   ignoreDeadLinks: true,
@@ -126,11 +126,11 @@ export default defineConfig({
     ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
   ],
   themeConfig: {
-    outline: { label: '页面大纲', level: 'deep' },
-    darkModeSwitchLabel: '切换主题',
+    outline: { label: 'Outline', level: 'deep' },
+    darkModeSwitchLabel: 'Switch to dark mode',
     editLink: {
       pattern: `${githubRepoLink}/tree/main/:path`,
-      text: '编辑本页面',
+      text: 'Edit this page',
     },
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
@@ -148,15 +148,15 @@ export default defineConfig({
           root: {
             translations: {
               button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档',
+                buttonText: 'Search',
+                buttonAriaLabel: 'Search',
               },
               modal: {
-                noResultsText: '无法找到相关结果',
-                resetButtonTitle: '清除查询条件',
+                noResultsText: 'No results could be found',
+                resetButtonTitle: 'Reset search query',
                 footer: {
-                  selectText: '选择',
-                  navigateText: '切换',
+                  selectText: 'Option',
+                  navigateText: 'Select',
                 },
               },
             },
@@ -208,9 +208,9 @@ export default defineConfig({
       },
     },
     nav: [
-      { text: '主页', link: '/' },
-      { text: '笔记', link: '/笔记/' },
-      { text: '最近更新', link: '/toc' },
+      { text: 'Home', link: '/' },
+      { text: 'Knowledge', link: '/Notes/' },
+      { text: 'Updates', link: '/toc' },
     ],
     sidebar,
   },

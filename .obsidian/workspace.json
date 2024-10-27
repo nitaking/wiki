@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc6131d80f572f6",
+        "id": "ee234efc81abde08",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b2fb1391fa1ed9",
+            "id": "4f099fb43660172e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Photography/Photography.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photography"
+              "title": "index"
+            }
+          },
+          {
+            "id": "e72978d6c9bf02f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#css",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Photography/Photography.md",
+                "file": "Notes/index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +157,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Photography"
+              "title": "Graph of index"
             }
           },
           {
@@ -194,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Photography/Photography.md",
+                "file": "Notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Photography"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -213,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Photography/Photography.md",
+                "file": "Notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Photography"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -235,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -251,8 +266,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5dfc4e6c8287ee4",
+  "active": "e72978d6c9bf02f5",
   "lastOpenFiles": [
+    "Notes/Digital Garden/Digital Garden.md",
+    "index.md",
+    "Notes/Tech/Git Cheatsheet.md",
+    "Notes/Photography/Photography.md",
     "vite.config.ts.timestamp-1730025743119-4d922450001c8.mjs",
     "vite.config.ts.timestamp-1730025721873-eebb2f8433f34.mjs",
     "vite.config.ts.timestamp-1730025578019-97d74c90a43a4.mjs",
@@ -263,17 +282,14 @@
     "Notes/Photography/assets",
     "Notes/Tech/version manager.md",
     "vite.config.ts.timestamp-1730023932302-67c42bf8ae37a.mjs",
-    "Notes/Tech/Git Cheatsheet.md",
     "Notes/Tech/Awesome List.md",
     "Notes/index.md",
-    "index.md",
     "vite.config.ts.timestamp-1730021790573-7c9e2fc4e69b5.mjs",
     "Notes/Uses.md",
     "README.md",
     "BoltAI.md",
     "Notes/thoughts/AI Chat Client Tool.md",
     "Notes/templates/クリエイティブプログラマー.md",
-    "Notes/templates",
     "Notes/tags/seed.md",
     "Notes/Bookmarks/index.md",
     "Notes/Bookmarks/2024-09/2024-09-21__Kent C. Dodds 🌌 on X- I'm currently writing a test for this exercise-  a good example....md",
@@ -288,7 +304,6 @@
     "Notes/Bookmarks/2024-09/2024-09-02__Takuya Matsuyama leveraged viral content to grow his SaaS to $10k+ MRR and become a Y....md",
     "Notes/Bookmarks/2024-09/2024-09-11__【企業・人事向け】Findy(ファインディ)の使い方・運用方法を採用代行のプロが解説！特徴や費用、スカウトのコツまで - HeaR inc.-企業の採用力向上を支援.md",
     "Notes/Bookmarks/2024-09/2024-09-12__Product engineers. We had just finished a customer… - by Sherif Mansour - Medium.md",
-    "Notes/Bookmarks/2024-09/2024-09-27__React and Next.js is DEAD — Something New is (Finally) Replacing It (For Good).md",
     "public/og.png",
     "Notes/Pasted image 20241023144305.png",
     "Notes/Tips/Mac_2024-10-22.png",

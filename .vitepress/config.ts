@@ -25,7 +25,7 @@ export default defineConfig({
       },
     },
   },
-  lang: 'en-US',
+  lang: 'ja-JP',
   title: siteName,
   description: siteDescription,
   ignoreDeadLinks: true,

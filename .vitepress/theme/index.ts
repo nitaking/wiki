@@ -131,6 +131,35 @@ const ExtendedTheme: Theme = {
             },
           },
         ],
+        'ja-JP': [
+          {
+            key: 'tags',
+            type: 'tags',
+            title: 'タグ',
+          },
+          {
+            key: 'progress',
+            type: 'progress',
+            title: '進捗',
+          },
+          {
+            key: 'wordCount',
+            type: 'dynamic',
+            title: 'Words',
+            options: {
+              type: 'wordsCount',
+            },
+          },
+          {
+            key: 'readingTime',
+            type: 'dynamic',
+            title: 'Reading Time',
+            options: {
+              type: 'readingTime',
+              dateFnsLocaleName: 'ja',
+            },
+          },
+        ],
       },
     })
   },

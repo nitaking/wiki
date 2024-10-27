@@ -251,8 +251,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9b2fb1391fa1ed9",
+  "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
+    "vite.config.ts.timestamp-1730025743119-4d922450001c8.mjs",
+    "vite.config.ts.timestamp-1730025721873-eebb2f8433f34.mjs",
+    "vite.config.ts.timestamp-1730025578019-97d74c90a43a4.mjs",
+    "vite.config.ts.timestamp-1730024991631-12841b2a1473d.mjs",
     "vite.config.ts.timestamp-1730024866657-a1005be1f8551.mjs",
     "vite.config.ts.timestamp-1730024707174-51e4159c3cc3.mjs",
     "vite.config.ts.timestamp-1730024115817-a3da4894d0501.mjs",
@@ -271,7 +275,6 @@
     "Notes/templates/クリエイティブプログラマー.md",
     "Notes/templates",
     "Notes/tags/seed.md",
-    "Notes/tags",
     "Notes/Bookmarks/index.md",
     "Notes/Bookmarks/2024-09/2024-09-21__Kent C. Dodds 🌌 on X- I'm currently writing a test for this exercise-  a good example....md",
     "Notes/Bookmarks/2024-09/2024-09-26__後で読む記事 (omnivore、pocket) や、github ページなどのさまざまなリンクやプロジェクト、さまざまなソフトウェアやソリューションへのリンク (rai....md",
@@ -286,9 +289,6 @@
     "Notes/Bookmarks/2024-09/2024-09-11__【企業・人事向け】Findy(ファインディ)の使い方・運用方法を採用代行のプロが解説！特徴や費用、スカウトのコツまで - HeaR inc.-企業の採用力向上を支援.md",
     "Notes/Bookmarks/2024-09/2024-09-12__Product engineers. We had just finished a customer… - by Sherif Mansour - Medium.md",
     "Notes/Bookmarks/2024-09/2024-09-27__React and Next.js is DEAD — Something New is (Finally) Replacing It (For Good).md",
-    "Notes/Bookmarks/2024-09",
-    "Notes/Bookmarks/2024-08",
-    "Notes/Bookmarks/2024-07",
     "public/og.png",
     "Notes/Pasted image 20241023144305.png",
     "Notes/Tips/Mac_2024-10-22.png",

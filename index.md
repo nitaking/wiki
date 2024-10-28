@@ -4,25 +4,20 @@ tags:
   - "#evergreen"
 title: Satoshi Nitawaki
 ---
-[Satoshi Nitawaki](https://nitaking.omg.lol/ ) です。
+## [Satoshi Nitawaki](https://nitaking.omg.lol/ ) 
+Software Engineer、[[Photography]]やガジェットなどが趣味です。
 
-[[Photography]]、ガジェット、PKM、銭湯やランニングが趣味です。
+[Blog](https://www.nitaking.dev)  <br />
+日々の記録や文章など。
+自己紹介については [Hey, I’m Satoshi](https://www.nitaking.dev/about/) をどうぞ。
 
-[Blog](https://www.nitaking.dev)  
+[[Notes/index | Knowledge]] <br />
+Digital Gardenとして知識ベースの整理をしています。
 
-**Online**
-
+**Online** <br />
 [Micro.blog](https://nitaking.micro.blog/) | [About](https://www.nitaking.dev/about/)  | [GitHub](https://github.com/nitaking)
 
 **Sitemap**
 - [[Uses]]
-- [[Tech]]
 - [[Photography]]
 
----
-
-
-> [!info] Digital Garden
-> 
-> 個人のウィキのようなものです。コンセプトは [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) などを参照しています。<br>
-> 👉 [[Digital Garden]]

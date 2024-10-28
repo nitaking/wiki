@@ -1,1 +1,1 @@
-export const collapsed = undefined
+export const collapsed = false

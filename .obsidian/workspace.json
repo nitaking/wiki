@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "e72978d6c9bf02f5",
+            "id": "9b246c6e80a46e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/index.md",
+                "file": "Notes/thoughts/GR IIIx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "GR IIIx"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#css",
+                "query": "つながり",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/index.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -180,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🛠️ 开发/用 CSS 画一本好看的可以交互的 3D 书.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 用 CSS 画一本好看的可以交互的 3D 书"
+              "title": "Outline of index"
             }
           },
           {
@@ -196,7 +195,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -254,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,46 +267,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72978d6c9bf02f5",
+  "active": "4f099fb43660172e",
   "lastOpenFiles": [
-    "Notes/Digital Garden/Digital Garden.md",
-    "index.md",
-    "Notes/Tech/Git Cheatsheet.md",
-    "Notes/Photography/Photography.md",
-    "vite.config.ts.timestamp-1730025743119-4d922450001c8.mjs",
-    "vite.config.ts.timestamp-1730025721873-eebb2f8433f34.mjs",
-    "vite.config.ts.timestamp-1730025578019-97d74c90a43a4.mjs",
-    "vite.config.ts.timestamp-1730024991631-12841b2a1473d.mjs",
-    "vite.config.ts.timestamp-1730024866657-a1005be1f8551.mjs",
-    "vite.config.ts.timestamp-1730024707174-51e4159c3cc3.mjs",
-    "vite.config.ts.timestamp-1730024115817-a3da4894d0501.mjs",
-    "Notes/Photography/assets",
-    "Notes/Tech/version manager.md",
-    "vite.config.ts.timestamp-1730023932302-67c42bf8ae37a.mjs",
-    "Notes/Tech/Awesome List.md",
+    "vite.config.ts.timestamp-1730128291899-f35a4e29458a9.mjs",
+    "vite.config.ts.timestamp-1730128266654-a62077d82a10e.mjs",
+    "vite.config.ts.timestamp-1730128255256-9075521738008.mjs",
     "Notes/index.md",
-    "vite.config.ts.timestamp-1730021790573-7c9e2fc4e69b5.mjs",
+    "index.md",
+    "Notes.md",
+    "Notes/Photography/Photography.md",
+    "Notes/Pasted image 20241023144305.png",
+    "vite.config.ts.timestamp-1730127317893-16c4981577178.mjs",
+    "Notes/assets/satoshi-profile.png",
+    "Notes/thoughts/GR IIIx.md",
+    "Notes/Mental Model/Tech.md",
+    "vite.config.ts.timestamp-1730127081887-7370425852f34.mjs",
+    "Notes/Mental Model/Life.md",
+    "Notes/thoughts/AI Chat Client Tool.md",
+    "vite.config.ts.timestamp-1730126036524-cf94d11fb8f4a.mjs",
+    "Notes/thoughts/Analytics framework.md",
+    "vite.config.ts.timestamp-1730125952881-47d9b90049925.mjs",
+    "vite.config.ts.timestamp-1730125937225-5c043ea3a02cc.mjs",
+    "vite.config.ts.timestamp-1730125863955-d8a7321447f91.mjs",
+    "vite.config.ts.timestamp-1730125829593-5633e0b313c85.mjs",
+    "vite.config.ts.timestamp-1730125807125-f5c0cd84eab62.mjs",
+    "Notes/Tech/Awesome List.md",
+    "Notes/Tech/Browser Extension List.md",
+    "Notes/Tech/CLI/version manager.md",
+    "Notes/Tech/roadmap.sh.md",
+    "Notes/Tech/Cheatsheet/Git Cheatsheet.md",
+    "Notes/Tech/Web Performance/Web Performance.md",
+    "Notes/Tech/Web Performance/Largest Contentful Paint (LCP).md",
+    "Notes/🪸 Stock/Navigation Animation.md",
+    "Notes/🪸 Stock/Video Animation.md",
+    "Notes/Life/保険/ペット保険プリズムペット SBIプリズム少額短期保険.md",
+    "Notes/thoughts/HHKB.md",
+    "Notes/Digital Garden/Digital Garden.md",
     "Notes/Uses.md",
     "README.md",
     "BoltAI.md",
-    "Notes/thoughts/AI Chat Client Tool.md",
     "Notes/templates/クリエイティブプログラマー.md",
-    "Notes/tags/seed.md",
-    "Notes/Bookmarks/index.md",
-    "Notes/Bookmarks/2024-09/2024-09-21__Kent C. Dodds 🌌 on X- I'm currently writing a test for this exercise-  a good example....md",
-    "Notes/Bookmarks/2024-09/2024-09-26__後で読む記事 (omnivore、pocket) や、github ページなどのさまざまなリンクやプロジェクト、さまざまなソフトウェアやソリューションへのリンク (rai....md",
-    "Notes/Bookmarks/2024-09/2024-09-26__New to Obsidian- how do you take notes on books without it becoming a chore- - r-Obsi....md",
-    "Notes/Bookmarks/2024-09/2024-09-25__Amazon - Mastering Functional Programming with TypeScript- Unlocking the Power of Fun....md",
-    "Notes/Bookmarks/2024-09/2024-09-24__Package Managers- A face-off (npm vs. pnpm vs. Yarn vs. Bun) - by AALA IT Solutions -....md",
-    "Notes/Bookmarks/2024-09/2024-09-24__Amazon - Modern Full-Stack React Projects- Build, maintain, and deploy modern web app....md",
-    "Notes/Bookmarks/2024-09/2024-09-18__What’s new- Introducing Height 2.0 with Autonomous workflows, Teams, Multiplayer curs....md",
-    "Notes/Bookmarks/2024-09/2024-09-14__Digital Garden. The topic of note-taking remains… - by Anton Belyaev - Aug, 2024 - Me....md",
-    "Notes/Bookmarks/2024-09/2024-09-13__GitHub - arthurfiorette-proposal-safe-assignment-operator- Draft for ECMAScript Error....md",
-    "Notes/Bookmarks/2024-09/2024-09-02__Takuya Matsuyama leveraged viral content to grow his SaaS to $10k+ MRR and become a Y....md",
-    "Notes/Bookmarks/2024-09/2024-09-11__【企業・人事向け】Findy(ファインディ)の使い方・運用方法を採用代行のプロが解説！特徴や費用、スカウトのコツまで - HeaR inc.-企業の採用力向上を支援.md",
-    "Notes/Bookmarks/2024-09/2024-09-12__Product engineers. We had just finished a customer… - by Sherif Mansour - Medium.md",
     "public/og.png",
-    "Notes/Pasted image 20241023144305.png",
     "Notes/Tips/Mac_2024-10-22.png",
     "Notes/assets/web-vital-3-points.png",
     "Notes/assets/web-dev-core-web-vitals-section.png",
@@ -313,7 +315,6 @@
     "Notes/assets/slab-verify.png",
     "Notes/assets/slab-ux-preview.gif",
     "Notes/assets/slab-template.png",
-    "Notes/assets/slab-list.png",
     "未命名.canvas"
   ]
 }

@@ -142,14 +142,14 @@ const ExtendedTheme: Theme = {
             type: 'progress',
             title: '進捗',
           },
-          {
-            key: 'wordCount',
-            type: 'dynamic',
-            title: 'Words',
-            options: {
-              type: 'wordsCount',
-            },
-          },
+          // {
+          //   key: 'wordCount',
+          //   type: 'dynamic',
+          //   title: 'Words',
+          //   options: {
+          //     type: 'wordsCount',
+          //   },
+          // },
           {
             key: 'readingTime',
             type: 'dynamic',

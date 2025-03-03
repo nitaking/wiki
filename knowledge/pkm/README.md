@@ -1,5 +1,6 @@
 ---
 description: personal knowledge management
+icon: brain-circuit
 ---
 
 # PKM
@@ -8,4 +9,4 @@ description: personal knowledge management
 | ------------------------------------ | -------------------------- | ------------------ |
 | [Capacities](https://capacities.io/) | Object / Backlink          | Web / Mac / iPhone |
 | Notion                               | DataBase                   | Web / Mac / iPhone |
-| [AnyType](https://anytype.io/)       | Object / P2P / Local First |                    |
+| [AnyType](https://anytype.io/)       | Object / P2P / Local First | Mac / iPhone       |

@@ -1,6 +1,6 @@
 # Photography
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>Photo by</em> <a href="https://glass.photo/nitaking"><em>Satoshi Nitawaki</em></a> <em>on</em> <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU"><em>Glass</em></a></p></figcaption></figure>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p><em>Photo by</em> <a href="https://glass.photo/nitaking"><em>Satoshi Nitawaki</em></a> <em>on</em> <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU"><em>Glass</em></a></p></figcaption></figure></div>
 
 昔から記録することが好きでした。印象的な思い出は、10歳くらいのときに実家にあるデジタルカメラで、夜ふかし後の朝日を撮ったことです。はじめて見た景色を残せることに興奮したことを覚えています。
 

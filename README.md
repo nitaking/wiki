@@ -2,7 +2,7 @@
 
 フロントエンドを主軸としたFull-Stack Engineerです。スタートアップでの経験をベースにプロダクト開発に関わっています。
 
-[Photography](photography/) やガジェットなどが趣味で、ナレッジの蓄積や蓄積に
+[Photography](photography/) やガジェットなどが趣味で、ナレッジの蓄積や共有に関心があります。
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

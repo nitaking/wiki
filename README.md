@@ -1,2 +1,22 @@
-# Digital Garden
+# Satoshi Nitawaki
 
+Software Engineer、[Photography](photography/) やガジェットなどが趣味です。
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+[Blog](https://www.nitaking.dev)\
+日々の記録や文章など。 自己紹介については [Hey, I’m Satoshi](https://www.nitaking.dev/about/) をどうぞ。
+
+\
+Digital Gardenとして知識ベースの整理をしています。
+
+**Online**\
+[Micro.blog](https://nitaking.micro.blog/) | [GitHub](https://github.com/nitaking) | [Omg.lol](https://nitaking.omg.lol/)
+
+**Sitemap**\
+
+
+* [Uses](about-me/satoshi-nitawaki/uses.md)
+* \[\[Photography]]
+* \[\[tags|Tags]]
+* \[\[/Tech]]

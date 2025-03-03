@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # nolebase
 
 \[\[quartz]] の代替として浮上。今回の用途がVitePressとVitePressテーマに移行したかったからなので、ドンピシャアイテム。

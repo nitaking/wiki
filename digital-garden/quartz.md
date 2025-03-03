@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # quartz
 
 !\[\[quartz.png]]

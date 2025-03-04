@@ -1,6 +1,7 @@
 ---
-description: personal knowledge management
 icon: brain-circuit
+description: personal knowledge management
+coverY: 0
 ---
 
 # PKM

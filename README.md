@@ -17,6 +17,6 @@ Digital Gardenとして知識ベースの整理をしています。
 
 **Sitemap**
 
-* [Uses](about-me/satoshi-nitawaki/uses.md)
+* [Uses](welcome/satoshi-nitawaki/uses.md)
 * [Photography](photography/)
 * [tech](knowledge/mental-models/tech/ "mention")

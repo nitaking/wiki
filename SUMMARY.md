@@ -1,10 +1,10 @@
 # Table of contents
 
-## About Me
+## 👋 Welcome
 
 * [Satoshi Nitawaki](README.md)
   * [Hey, I’m Satoshi](https://www.nitaking.dev/about/)
-  * [Uses](about-me/satoshi-nitawaki/uses.md)
+  * [Uses](welcome/satoshi-nitawaki/uses.md)
 
 ***
 
@@ -33,3 +33,5 @@
 
 * [CheatSheet](cheatsheet/README.md)
   * [RayCast](cheatsheet/raycast.md)
+* [CheatSheet](cheatsheet-1/README.md)
+  * [RayCast](cheatsheet-1/raycast.md)

@@ -4,4 +4,43 @@
 
 {% embed url="https://kk-web.link/blog/20220629" %}
 
-`SWRConfig.value.fallback` にgetServerSidePropsの値を使ったら、`ServerFetch+Client Fetchの2度Fetch, loadingが発生`、というのが1リクエストで完結できそう
+`SWRConfig.value.fallback` にgetServerSidePropsの値を使うことで、レイアウトシフトを防ぐことができる。
+
+積極的に利用していきたい。
+
+```tsx
+import { SWRConfig } from "swr";
+
+export type HogeContainerComponentProps = {
+  fallback: {
+    "/api/hoge": Hoge;
+  };
+};
+
+function HogeContainerComponent({
+  fallback,
+}: HogeContainerComponentProps): JSX.Element {
+  return (
+    <SWRConfig value={{ fallback }}>
+      <HogePresentationalComponent />
+    </SWRConfig>
+  );
+}
+
+// getStaticProps でも同様
+export const getServerSideProps: GetServerSideProps<
+  HogeContainerComponentProps
+> = async () => {
+  const { data: hoge } = await axios.get("http://hogehoge/api/hoge");
+
+  return {
+    props: {
+      fallback: {
+        "/api/hoge": hoge,
+      },
+    },
+  };
+};
+
+return HogeContainerComponent;
+```

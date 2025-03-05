@@ -1,5 +1,6 @@
 ---
 description: '#mysql #index #ddl #online_ddl'
+icon: database
 ---
 
 # Online DDL / MySQL

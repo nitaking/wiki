@@ -1,6 +1,6 @@
 ---
-description: '#mysql #index #ddl #online_ddl'
 icon: database
+description: '#mysql #index #ddl #online_ddl'
 ---
 
 # Online DDL / MySQL
@@ -36,5 +36,6 @@ ALGORITHM=INPLACE, LOCK=NONE;
 
 </details>
 
-* `ALGORITHM=INPLACE, LOCK=NONE;`でのテーブルロックの有無は時間が短すぎて判断できず。テーブルロックかかる前提で進めるが安牌かもしれない。
+* `ALGORITHM=INPLACE, LOCK=NONE;`でのテーブルロックの有無は時間が短すぎて判断できず。
+* テーブルロックかかる前提で進めるが安牌かもしれない。
 

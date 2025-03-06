@@ -1,4 +1,4 @@
-# My Workflow
+# Dev Workflow
 
 ## Commit
 
@@ -12,4 +12,4 @@
 
 ## Release
 
-*
+* git-pr-release

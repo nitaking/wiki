@@ -12,6 +12,7 @@
   * [quartz](digital-garden/quartz.md)
   * [nolebase](digital-garden/nolebase.md)
   * [GitBook](digital-garden/gitbook.md)
+  * [micro.blog](digital-garden/micro.blog.md)
 * [Photography](photography/README.md)
   * [GR IIIx](photography/gr-iiix.md)
 

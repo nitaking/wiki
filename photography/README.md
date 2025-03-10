@@ -1,3 +1,7 @@
+---
+icon: camera
+---
+
 # Photography
 
 <div data-full-width="false"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p><em>Photo by</em> <a href="https://glass.photo/nitaking"><em>Satoshi Nitawaki</em></a> <em>on</em> <a href="https://glass.photo/nitaking/3WXz2eDN8v7nlixY4quSiU"><em>Glass</em></a></p></figcaption></figure></div>

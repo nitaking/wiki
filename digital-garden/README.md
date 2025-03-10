@@ -1,6 +1,10 @@
+---
+icon: house-tree
+---
+
 # Digital Garden
 
-\[\[micro.blog]]を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
+[micro.blog.md](micro.blog.md "mention")を始めとした、IndieWebに興味を持つ内に、Digital Gardenというワードを知りました。
 
 関連ワード: Second Brain, Personal Wiki
 

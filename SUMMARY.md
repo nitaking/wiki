@@ -40,6 +40,7 @@
   * [Frontend](tech/frontend/README.md)
     * [Safe Data Fetching](tech/frontend/safe-data-fetching.md)
     * [SWR](tech/frontend/swr.md)
+    * [Review Point](tech/frontend/review-point.md)
   * [Infrastructure](tech/infrastructure/README.md)
     * [Online DDL / MySQL](tech/infrastructure/online-ddl-mysql.md)
   * [TypeScript / JavaScript](tech/typescript/README.md)

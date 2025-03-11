@@ -42,6 +42,8 @@
     * [SWR](tech/frontend/swr.md)
   * [Infrastructure](tech/infrastructure/README.md)
     * [Online DDL / MySQL](tech/infrastructure/online-ddl-mysql.md)
+  * [TypeScript](tech/typescript/README.md)
+    * [Style Guides](tech/typescript/style-guides.md)
 * [Workflow](workflow/README.md)
   * [Dev Workflow](workflow/dev-workflow.md)
   * [Knowledge Workflow](workflow/knowledge-workflow.md)

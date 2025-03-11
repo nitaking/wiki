@@ -1,2 +1,6 @@
+---
+icon: t
+---
+
 # TypeScript / JavaScript
 

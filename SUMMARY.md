@@ -43,7 +43,7 @@
   * [Infrastructure](tech/infrastructure/README.md)
     * [Online DDL / MySQL](tech/infrastructure/online-ddl-mysql.md)
   * [TypeScript / JavaScript](tech/typescript/README.md)
-    * [Style Guides](tech/typescript/style-guides.md)
+    * [🦮 Style Guides](tech/typescript/style-guides.md)
     * [Barrel Files](tech/typescript-javascript/barrel-files.md)
 * [Workflow](workflow/README.md)
   * [Dev Workflow](workflow/dev-workflow.md)

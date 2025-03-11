@@ -2,7 +2,7 @@
 description: '#style_guide'
 ---
 
-# Style Guides
+# 🦮 Style Guides
 
 ### Google TypeScript Style Guide
 

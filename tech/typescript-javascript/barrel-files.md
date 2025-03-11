@@ -1,5 +1,6 @@
 ---
 description: '#typescript #javascript #bad_style'
+icon: bullseye-arrow
 ---
 
 # Barrel Files

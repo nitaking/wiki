@@ -1,5 +1,6 @@
 ---
 description: '#pkm #note'
+icon: notebook
 ---
 
 # Capacities

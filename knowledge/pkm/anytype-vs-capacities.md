@@ -1,4 +1,4 @@
-# AnyType vs Capacities
+# 🆚 AnyType vs Capacities
 
 ## Capacities
 

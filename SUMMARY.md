@@ -23,6 +23,7 @@
   * [Capacities](knowledge/pkm/capacities.md)
   * [Mindmap Tools](knowledge/pkm/mindmap-tools.md)
   * [Note App Histories](knowledge/pkm/note-app-histories.md)
+  * [Heptabase](knowledge/pkm/heptabase.md)
 * [Mental Models](knowledge/mental-models/README.md)
   * [Tech](knowledge/mental-models/tech/README.md)
     * [Decision-Making Framework](knowledge/mental-models/tech/decision-making-framework.md)

@@ -21,6 +21,7 @@
 * [PKM](knowledge/pkm/README.md)
   * [AnyType vs Capacities](knowledge/pkm/anytype-vs-capacities.md)
   * [Capacities](knowledge/pkm/capacities.md)
+  * [Mindmap Tools](knowledge/pkm/mindmap-tools.md)
 * [Mental Models](knowledge/mental-models/README.md)
   * [Tech](knowledge/mental-models/tech/README.md)
     * [Decision-Making Framework](knowledge/mental-models/tech/decision-making-framework.md)

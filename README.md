@@ -4,7 +4,7 @@
 
 [Photography](photography/) やガジェットなどが趣味で、ナレッジの蓄積や共有に関心があります。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 [Blog](https://www.nitaking.dev)\
 日々の記録や文章など。 自己紹介については [Hey, I’m Satoshi](https://www.nitaking.dev/about/) をどうぞ。

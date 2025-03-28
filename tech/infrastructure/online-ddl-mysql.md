@@ -1,6 +1,6 @@
 ---
-icon: database
 description: '#mysql #index #ddl #online_ddl'
+icon: database
 ---
 
 # Online DDL / MySQL
@@ -38,4 +38,16 @@ ALGORITHM=INPLACE, LOCK=NONE;
 
 * `ALGORITHM=INPLACE, LOCK=NONE;`でのテーブルロックの有無は時間が短すぎて判断できず。
 * テーブルロックかかる前提で進めるが安牌かもしれない。
+
+
+
+### FULLTEXT INDEX
+
+FULLTEXT INDEXはOnlineを適用すると、初回はテーブルロックが発生する。
+
+[https://dev.mysql.com/doc/refman/8.4/en/innodb-online-ddl-operations.html](https://dev.mysql.com/doc/refman/8.4/en/innodb-online-ddl-operations.html)
+
+> FULLTEXTユーザー定義の列がない場合、 最初のインデックスを追加するとテーブルが再構築されますFTS\_DOC\_ID。 FULLTEXTテーブルを再構築せずに追加のインデックスを追加できます。
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://dev.mysql.com/doc/refman/8.4/en/innodb-online-ddl-operations.html">https://dev.mysql.com/doc/refman/8.4/en/innodb-online-ddl-operations.html</a></p></figcaption></figure>
 

@@ -82,3 +82,5 @@
   * [ADR: Architecture Decision Records](cheatsheet/adr-architecture-decision-records.md)
   * [Next](cheatsheet/next/README.md)
     * [Next で tailwind スタイルの共存](cheatsheet/next/next-de-tailwind-sutairuno.md)
+* [AI](ai/README.md)
+  * [Deep Research Best Practice](ai/deep-research-best-practice.md)

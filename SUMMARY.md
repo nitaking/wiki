@@ -51,6 +51,7 @@
   * [TypeScript / JavaScript](tech/typescript/README.md)
     * [🦮 Style Guides](tech/typescript/style-guides.md)
     * [Barrel Files](tech/typescript-javascript/barrel-files.md)
+    * [npm](tech/typescript-javascript/npm.md)
   * [CLI](tech/cli/README.md)
     * [Scaffolding Tool](tech/cli/scaffolding-tool.md)
 * [Workflow](workflow/README.md)

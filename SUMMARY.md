@@ -40,6 +40,7 @@
 
 * [etc](etc.md)
 * [Tech](tech/README.md)
+  * [My Oshi](tech/my-oshi.md)
   * [Frontend](tech/frontend/README.md)
     * [Safe Data Fetching](tech/frontend/safe-data-fetching.md)
     * [SWR](tech/frontend/swr.md)

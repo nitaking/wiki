@@ -12,3 +12,8 @@
 * CSS Moduleは古くからあるものですが、Nextでも採用されており、現代においても柔軟に活用可能な類です。
 * TailwindとCSS Moduleを使用してWebのスタイリングをすることをおすすめしています。
 
+### Basically, Don't Using useEffect in Custom Hooks&#x20;
+
+* useEffectを設置することで、Custom Hooksに副作用が発生。
+* グローバルなイベントリスナーの場合、コンポーネント階層の外部で管理したほうが、分離性・テスト容易性が高まる。
+
